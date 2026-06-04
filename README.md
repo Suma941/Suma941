@@ -73,7 +73,7 @@ Projects
 
 
 
-Hybrid Quantum CNN for Brain Tumor Classification 
+# Hybrid Quantum CNN for Brain Tumor Classification 
 
 
 
@@ -85,7 +85,7 @@ Hybrid Quantum CNN for Brain Tumor Classification
 
 
 
- AI-Based Microsoft Stock Price Prediction System 
+# AI-Based Microsoft Stock Price Prediction System 
 
 
 
@@ -96,7 +96,7 @@ Hybrid Quantum CNN for Brain Tumor Classification
 * Technologies: Python, Scikit-learn, XGBoost, Pandas, Matplotlib
 
 
- Smart Expense & Financial Management System 
+#  Smart Expense & Financial Management System 
 
 
 
@@ -108,7 +108,7 @@ Hybrid Quantum CNN for Brain Tumor Classification
 
 
 
-IoT-Based Environmental Monitoring System 
+# IoT-Based Environmental Monitoring System 
 
 
 
@@ -118,12 +118,12 @@ IoT-Based Environmental Monitoring System
 
 * Technologies: Python, Raspberry Pi, Linux, IoT Sensors
 
-FloraGPT – AI Plant Care Assistant 🌿
+# FloraGPT – AI Plant Care Assistant 🌿
 
-*Built a full-stack web app that provides AI-generated plant care guidance (watering, sunlight, soil, fertilizer) using Google Gemini API.  
-*Designed a responsive UI with Flask, HTML, CSS, and JavaScript, and deployed it on Render.  
-*Live Demo: :contentReference[oaicite:0]{index=0}  
-*Technologies Used: Python, Flask, Gemini API, HTML, CSS, JavaScript, Docker, Render  
+- Built a full-stack web app that provides AI-generated plant care guidance (watering, sunlight, soil, fertilizer) using Google Gemini API.  
+- Designed a responsive UI with Flask, HTML, CSS, and JavaScript, and deployed it on Render.  
+- Live Demo: :contentReference[oaicite:0]{index=0}  
+- Technologies Used: Python, Flask, Gemini API, HTML, CSS, JavaScript, Docker, Render    
 
 
 
