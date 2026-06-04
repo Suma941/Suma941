@@ -73,7 +73,7 @@ Projects
 
 
 
-# Hybrid Quantum CNN for Brain Tumor Classification 
+#Hybrid Quantum CNN for Brain Tumor Classification 
 
 
 
