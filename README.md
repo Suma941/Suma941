@@ -118,6 +118,13 @@ IoT-Based Environmental Monitoring System
 
 * Technologies: Python, Raspberry Pi, Linux, IoT Sensors
 
+FloraGPT – AI Plant Care Assistant 🌿
+
+*Built a full-stack web app that provides AI-generated plant care guidance (watering, sunlight, soil, fertilizer) using Google Gemini API.  
+*Designed a responsive UI with Flask, HTML, CSS, and JavaScript, and deployed it on Render.  
+*Live Demo: :contentReference[oaicite:0]{index=0}  
+*Technologies Used: Python, Flask, Gemini API, HTML, CSS, JavaScript, Docker, Render  
+
 
 
 Research & Publications 
